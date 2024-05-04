@@ -1,6 +1,6 @@
 <h1>Hi, I'm Dante. I am a passionate information technology and cybersecurity professional. </h1>
 
-<h2>👨‍💻 Cyber Security Projects Projects:</h2>
+<h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Microsoft Azure SOC Lab Project </b>
   - [Live SOC / Honey Net in Azure](https://github.com/Dante2141/Microsoft-Azure-SOC-Lab)
