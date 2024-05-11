@@ -1,4 +1,4 @@
-<h1>Hi, I'm Dante. I'm a passionate Information Technology and Cybersecurity Professional. </h1>
+<h1>Hi, I'm Dante. I'm a passionate Information Technology and Cybersecurity professional. </h1>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
