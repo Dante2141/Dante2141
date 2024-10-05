@@ -5,7 +5,7 @@
 - <b>Microsoft Azure SOC Lab Project </b>
   - [Live SOC / Honey Net in Azure](https://github.com/Dante2141/Microsoft-Azure-SOC-Lab)
 
-- <b>Vulnerability Managment with Nessus. </b>
+- <b>Vulnerability Managment with Nessus </b>
 
 <h2> 🤳 Connect with me:</h2>
 
