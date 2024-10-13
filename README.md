@@ -12,7 +12,7 @@
  <h2>👨‍💻 Windows/Microsoft Administration:</h2>
 
  - <b>Microsoft 365 Administrator Lab Project </b>
-   - [Microsoft 365 Administration] (https://github.com/Dante2141/Microsoft-365-Administration)
+   - [Microsoft 365 Administration](https://github.com/Dante2141/Microsoft-365-Administration)
   
   
 
